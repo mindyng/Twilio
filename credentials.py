@@ -1,4 +1,0 @@
-account_sid = 'AC75205211dd2f792e98d5a3e5bf451549'
-auth_token = '070489945b4d437828e2dd603d1f918a'
-my_cell = "+15105082455"
-my_twilio = "+14159664618"
